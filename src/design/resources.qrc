@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/info_24dp_000000_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/menu_book_24dp_000000.png</file>
+  </qresource>
+</RCC>
