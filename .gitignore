@@ -1,0 +1,9 @@
+src/data.json
+
+src/__pycache__/
+
+.idea/
+
+bin/build/
+bin/dist/
+bin/*.spec
