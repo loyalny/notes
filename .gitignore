@@ -1,0 +1,10 @@
+src/data.json
+
+src/__pycache__/
+
+.idea/
+.venv/
+
+bin/build/
+bin/dist/
+bin/*.spec
